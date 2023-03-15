@@ -1,0 +1,26 @@
+h1  {
+  color: red;
+  text-align: center;
+}
+h3  {
+  color: silver;
+  text-align: center;
+}
+img {
+  float: left;
+  width: 50%;
+  margin: 2%;
+  padding: 1%;
+  border: solid black;
+  background-color: goldenrod;
+  box-sizing: border-box;
+}
+.sidebar  {
+  float: right;
+  border: solid black;
+  margin: 5%;
+  padding-left: 1%;
+  background-color: rgb(103, 122, 60);
+  width: 30%;
+  box-sizing: border-box;
+}
