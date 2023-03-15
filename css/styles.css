@@ -1,10 +1,15 @@
 h1  {
+  background-color: black;
   color: red;
+  border: solid white;
   text-align: center;
 }
 h3  {
   color: silver;
   text-align: center;
+}
+body {
+  background-color: rgb(154, 151, 151);
 }
 img {
   float: left;
